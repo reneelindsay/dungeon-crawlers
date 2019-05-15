@@ -8,7 +8,7 @@ My language of choice is Python 3, but I may experiment with other languages as 
 
 ### Pair Programming: Misery Loves Company
 
-The first program is a brief exchange between myself and a good friend and mentor named John. An artist himself, you can find John's work at https://github.com/JohnEarnest
+The first program is a brief exchange between myself and a good friend and mentor named John. An artist himself, you can find John's latest adventures in chip8 programming at https://github.com/JohnEarnest/chip8Archive
 
 The first file has a bug towards the end: inputing the desired response causes the program to misunderstand the input and ask for the desired response, effectively trapping you in an ongoing loop of futility. I almost like it better this way; it is satire, after all.
 
